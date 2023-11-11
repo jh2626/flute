@@ -1,0 +1,15 @@
+a {
+  float: right;
+}
+
+a:hover {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+
+h1:hover {
+  color: gold;
+}
